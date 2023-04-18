@@ -2,7 +2,7 @@
 <br>
 This is a simple MAIL GUI using python.
 
-##Requirement
-1>tkinter
-2>smtplib
+## modules
+>1. tkinter: Python module for Graphical User Interface (GUI)
+>2. smtplib: Python module for outgoing email services (Simple Mail Transfer Protocol)
 
