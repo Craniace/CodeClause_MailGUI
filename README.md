@@ -1,6 +1,6 @@
 # Mail.py
 
-A Python script for sending automated emails.
+A Python script for sending automated emails for code clause.
 
 ## Setup
 
